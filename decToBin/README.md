@@ -2,5 +2,5 @@
 
 ##### Software utilizado: [Jflap](https://www.jflap.org/)
 
-Testes com inputs decimail diversos.
+Testes com inputs decimais diversos.
 ![teste de inputs](./images/img_decToBin.png)
